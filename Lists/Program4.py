@@ -6,5 +6,5 @@ def multiply_all_elements_of_list(l):
 
 #list compreshension - 
 # [output iteration conditon]
-
+data = [1,2,3,4,5,6]
 print(multiply_all_elements_of_list(data))
