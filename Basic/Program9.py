@@ -1,9 +1,9 @@
 #9.	Enter basic salary from the user. Write a program to calculate DA and HRA on the following conditions:-
-# Salary	                                        DA	      HRA
-# <=2000	                                       10%	     20%
-# >2000 && <=5000	                        20%      30%
-# >5000 && <=10000	                       30%	    40%
-# >10000	                                       50%	   50%
+# Salary	                                         DA	    HRA
+# <=2000	                                        10%	    20%
+# >2000 && <=5000	                                20%     30%
+# >5000 && <=10000	                                30%	    40%
+# >10000	                                        50%	    50%
 
 #--------------------- Program ---------------------------#
 salary = int(input("Enter your salary: "))
